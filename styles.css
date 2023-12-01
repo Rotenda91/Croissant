@@ -1,3 +1,6 @@
+body {
+  background-color: pink;
+
 h1,
 h2,
 h3 {
@@ -13,3 +16,4 @@ a {
   display: block;
   color: royalblue;
 }
+
